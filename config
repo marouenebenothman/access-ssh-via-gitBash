@@ -1,0 +1,3 @@
+Host {mySever}
+    HostkeyAlgorithms +ssh-rsa
+    PubkeyAcceptedAlgorithms +ssh-rsa
